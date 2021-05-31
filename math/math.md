@@ -9,9 +9,9 @@ Write a small fucntion called divide () that takes a numerator and denominator a
 Write a program from scratch, the program should prompt the user to input the information required:
    - The number of people
    - The number of slice each person will eat
-   - he number of slice in each pizza
+   - The number of slice in each pizza
 
-Using that information your program must calculate how manay pizzas are needed
+Using that information your program must calculate how many pizzas are needed
 to feed everyone.  
 
 
