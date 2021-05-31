@@ -1,3 +1,5 @@
+import adding_with_variable_arg as arg_function
+
 def add(a,b):
     return a+b
 
@@ -15,5 +17,14 @@ def main():
     (operand1,operand2) = query_number()
     sum = add(operand1, operand2)
     print_total(sum)
+    arg_function.separator(">>>>>>>>>>>>>>>>>>")
+    arg_function.add_variable_arg(2,4,5,6,7,9,12)
+    arg_function.separator()
+    arg_function.add_variable_arg(2,1,7,9,12)
+    arg_function.separator("@@@@@@@@@@@@@@@@@@@@")
+    arg_function.add_variable_arg(55,45,15)
+
+
+    
 
 main()    
