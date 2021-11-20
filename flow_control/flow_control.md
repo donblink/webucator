@@ -1,6 +1,6 @@
 ## **Exercise 19**
 
-   1. create all_and_any.py inyour editor
+   1. create all_and_any.py in your editor
    2. in the main() function, there are calls to all_true() and any_true(),
       but those functions have yet to be written. Complete those functions:
            a. all_true() - should return True if (and only if ) all elements
